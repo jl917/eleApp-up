@@ -1,3 +1,10 @@
+## [1.0.1-beta.2](https://github.com/jl917/eleApp-up/compare/v1.0.1-beta.1...v1.0.1-beta.2) (2025-01-05)
+
+
+### Bug Fixes
+
+* v3 beta ([835b5bb](https://github.com/jl917/eleApp-up/commit/835b5bbe558995d1c568a74e692fb8e3f2f78f33))
+
 ## [1.0.1-beta.1](https://github.com/jl917/eleApp-up/compare/v1.0.0...v1.0.1-beta.1) (2025-01-05)
 
 
